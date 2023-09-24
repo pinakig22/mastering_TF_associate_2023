@@ -30,6 +30,10 @@ The core Terraform workflow consists of **three** stages:
 ### Collaborate
 - Since your configuration is written in a file, you can **commit** it to a _Version Control System (VCS)_ and use **Terraform Cloud** to efficiently manage Terraform workflows across teams.
 - **Terraform Cloud** runs Terraform in a _consistent, reliable environment_ and _provides secure access_ to shared `state` and `secret data`, `role-based access controls`, a `private registry` for sharing both `modules` and `providers`, and more.
+
+# Benefits of IaC (Infrastructure as Code)
+[UseCases](https://developer.hashicorp.com/terraform/intro/use-cases)
+
 ## References
 - [**Blog**: Infrastructure as Code in a Private or Public Cloud](https://www.hashicorp.com/blog/infrastructure-as-code-in-a-private-or-public-cloud)
 - [**Tutorial**: What is Infrastructure as Code with Terraform?](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code)

@@ -14,3 +14,9 @@
 # Generating an SSH Key using the Terraform TLS Provider
 # Fetch, Version, & Upgrade Terraform Providers
 # Terraform Provisioners
+
+
+
+## References
+- [Getting Started AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
+- [HCL Configuration Syntax](https://developer.hashicorp.com/terraform/language/syntax/configuration)

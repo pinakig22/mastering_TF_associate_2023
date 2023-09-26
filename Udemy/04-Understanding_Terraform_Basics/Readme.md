@@ -17,8 +17,19 @@
   terraform destroy
   ```
 - Once the Terraform workspace has been **initialized** you are ready to begin _planning and provisioning_ your resources.
-- 
+
 # HashiCorp Configuration Language (HCL)
+- Terraform is written in _HCL (HashiCorp Configuration Language)_ and is designed to be both human and machine-readable.
+- HCL is built using **code configuration blocks**. Terraform Code Configuration block types include:
+  - Terraform `Settings` Block
+  - Terraform `Provider` Block
+  - Terraform `Resource` Block
+  - Terraform `Data` Block
+  - Terraform `Input Variables` Block
+  - Terraform `Local Variables` Block
+  - Terraform `Output Values` Block
+  - Terraform `Modules` Block
+- The _low-level syntax_ of the Terraform language is defined in terms of a syntax called _HCL_.
 # Terraform Plug-in Based Architecture
 # Terraform Provider Block
 # Terraform Resource Block
@@ -37,5 +48,5 @@
 
 
 ## References
-- [Getting Started AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
-- [HCL Configuration Syntax](https://developer.hashicorp.com/terraform/language/syntax/configuration)
+- [**Getting Started AWS**](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
+- [**HCL Configuration Syntax**](https://developer.hashicorp.com/terraform/language/syntax/configuration)

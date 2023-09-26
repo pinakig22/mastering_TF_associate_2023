@@ -63,8 +63,10 @@
     - **Define Resources** _that map to specific Services_.
   - **`Provisioner` Plugins**
     - Executing commands or scripts on the designated Resource after creation, or on destruction.
-- sdfas
-- ![Alt text](assets/TerraformPluginArchitecture.png)
+
+  ![](../../assets/TerraformPluginArchitecture.png)
+  
+
 ### References
 - [How Terraform Works With Plugins](https://developer.hashicorp.com/terraform/plugin/how-terraform-works)
 

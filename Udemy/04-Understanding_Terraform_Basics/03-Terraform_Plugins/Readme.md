@@ -25,7 +25,7 @@
   - **`Provisioner` Plugins**
     - Executing commands or scripts on the designated Resource after creation, or on destruction.
 
-  ![](../../assets/TerraformPluginArchitecture.png)
+  ![](../../../assets/TerraformPluginArchitecture.png)
   
 
 ### References

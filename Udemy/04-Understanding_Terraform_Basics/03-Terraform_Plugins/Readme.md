@@ -27,7 +27,7 @@
 
   ![](../../../assets/TerraformPluginArchitecture.png)
 
-## Providers
+## Provider Requirements
 - The special `terraform` configuration block is used to configure behaviour of Terraform itself.
   ```yaml
   terraform {
@@ -45,7 +45,7 @@
   }  
   ```
 - The **`required_version`** setting accepts a _version constraint string_, which specifies **_which versions of Terraform can be used with your configuration_**.
-- The **`required_providers`** block specifies **all of the providers** required by the current module, _mapping each local provider name to a source address and a version constraint_.
+- The **`required_providers`** block specifies **all of the providers** **required by the current module**, _mapping each local provider name to a `source` address and a `version` constraint_.
   - **`source`** defines the **global source address** for the provider intended to use.
     - it is its **global identifier** and also specifies the **primary location** where Terraform can download it.
   - **`version`** is a **version constraint** specifying which subset of available `provider versions` the **module is compatible with**.

@@ -12,10 +12,10 @@ The Git Repo from the Udemy Couse is at [Terraform](https://github.com/btkrausen
 ## Objectives
 **Reference:** [Terraform Associate (003) Exam Objectives](https://developer.hashicorp.com/certifications/infrastructure-automation)
 
-|**1** |**Understand infrastructure as code (IaC) concepts**|
-|:-----:|:--------------|
-|1a	|_Explain what IaC is_|
-|1b	|_Describe advantages of IaC patterns_| 
+|**1** |**Understand infrastructure as code (IaC) concepts**|**Status**|
+|:-----:|:--------------|-----|
+|1a	|_Explain what IaC is_| <input type="checkbox" disabled checked /> |
+|1b	|_Describe advantages of IaC patterns_| _ |
 
 |**2**	|**Understand Terraform's purpose (vs other IaC)**|
 |:-----:|:--------------|

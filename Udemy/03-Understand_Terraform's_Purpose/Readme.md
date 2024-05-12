@@ -57,3 +57,6 @@ The primary purpose of Terraform state is to **store bindings** between objects 
 - [`State`](https://developer.hashicorp.com/terraform/language/state)
 - [Purpose of Terraform `State`](https://developer.hashicorp.com/terraform/language/state/purpose)
 - [`State` Command](https://developer.hashicorp.com/terraform/cli/commands/state)
+  
+## Misc Ref
+- [terraform-provider-spotify](https://github.com/conradludgate/terraform-provider-spotify)

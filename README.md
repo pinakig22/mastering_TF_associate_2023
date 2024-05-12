@@ -15,12 +15,12 @@ The Git Repo from the Udemy Couse is at [Terraform](https://github.com/btkrausen
 |**1** |**Understand infrastructure as code (IaC) concepts**|**Status**|
 |:-----:|:--------------|-----|
 |1a	|_Explain what IaC is_| &#x2611; |
-|1b	|_Describe advantages of IaC patterns_| &#x2610; |
+|1b	|_Describe advantages of IaC patterns_| &#x2611; |
 
 |**2**	|**Understand Terraform's purpose (vs other IaC)**|**Status**|
 |:-----:|:--------------|-----|
-|2a	|_Explain multi-cloud and provider-agnostic benefits_| &#x2610; |
-|2b	|_Explain the benefits of state_| &#x2610; |
+|2a	|_Explain multi-cloud and provider-agnostic benefits_| &#x2611; |
+|2b	|_Explain the benefits of state_| &#x2611; |
 
 |**3**	|**Understand Terraform basics**|**Status**|
 |:-----:|:--------------|-----|

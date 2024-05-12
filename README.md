@@ -9,6 +9,8 @@ The Git Repo from the Udemy Couse is at [Terraform](https://github.com/btkrausen
 
 **FreeCodeCamp** [Terraform Certified Associate (003) – How to Study for the Exam](https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/)
 
+[**HashiCorp Terraform Associate certification Study guide**](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-study-003)
+
 ## Objectives
 **Reference:** [Terraform Associate (003) Exam Objectives](https://developer.hashicorp.com/certifications/infrastructure-automation)
 
